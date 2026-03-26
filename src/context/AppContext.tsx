@@ -3,11 +3,12 @@ import React, { createContext, useContext, useState, useCallback, type ReactNode
 export type PageType = 'collect' | 'manage' | 'square';
 
 export interface UserRequirements {
-  purpose: string[];
-  budget: string[];
-  area: string[];
-  layout: string[];
-  tags: string[];
+  purpose: string;
+  budget: string;
+  districts: string[];
+  houseType: string;
+  area: string;
+  preferences: string[];
   extra: string;
 }
 
@@ -113,11 +114,12 @@ const initialCards: StatusCard[] = [
 ];
 
 const defaultRequirements: UserRequirements = {
-  purpose: [],
-  budget: [],
-  area: [],
-  layout: [],
-  tags: [],
+  purpose: '',
+  budget: '',
+  districts: [],
+  houseType: '',
+  area: '',
+  preferences: [],
   extra: '',
 };
 
