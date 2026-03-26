@@ -56,11 +56,12 @@ export default function ManagePage() {
 
   // 所有标签
   const allTags = [
-    ...userRequirements.purpose,
-    ...userRequirements.budget,
-    ...userRequirements.area,
-    ...userRequirements.layout,
-    ...userRequirements.tags,
+    ...(userRequirements.purpose ? [userRequirements.purpose] : []),
+    ...(userRequirements.budget ? [userRequirements.budget] : []),
+    ...userRequirements.districts,
+    ...(userRequirements.houseType ? [userRequirements.houseType] : []),
+    ...(userRequirements.area ? [userRequirements.area] : []),
+    ...userRequirements.preferences,
   ];
 
   // 日期上有卡片的集合
