@@ -18,7 +18,7 @@ function PageRouter() {
 export default function Index() {
   return (
     <AppProvider>
-      <div className="mobile-container bg-background min-h-screen">
+      <div className="mobile-container bg-background min-h-screen relative">
         <PageRouter />
         <BottomTabs />
       </div>
