@@ -98,7 +98,7 @@ export default function CollectPage() {
         <textarea
           value={extra}
           onChange={e => setExtra(e.target.value)}
-          placeholder="补充需求，如"希望安静不临街""
+          placeholder={'补充需求，如"希望安静不临街"'}
           className="w-full rounded-xl border border-border bg-card p-3 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring resize-none h-20"
         />
       </div>
