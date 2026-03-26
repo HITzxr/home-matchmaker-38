@@ -270,7 +270,7 @@ export default function CollectPage() {
       </div>
 
       {/* Bottom button */}
-      <div className="px-5 pb-6 pt-2">
+      <div className="px-5 pb-20 pt-2">
         <button
           onClick={handleContinue}
           disabled={!isEnabled}
