@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "skills": {
+    "ab-test-analysis": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-data-analytics/skills/ab-test-analysis/SKILL.md",
+      "computedHash": "a41788149deaca12cd735f1ca18a8b036618d8d39b202258cc5d9a7eb3216c4c"
+    },
+    "analyze": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/analyze/SKILL.md",
+      "computedHash": "25eedc0a20bc437e8620b45df1513fd448696a400e81cacaf56acc546ed03172"
+    },
+    "analyze-feature-requests": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-product-discovery/skills/analyze-feature-requests/SKILL.md",
+      "computedHash": "c0c1815f750b4a0ff6dccd5accdec50659ddc4015de80a4dc51e0608b6d71587"
+    },
+    "baoyu-diagram": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "skillPath": "skills/baoyu-diagram/SKILL.md",
+      "computedHash": "6c588a89cd5aae21f8053aaed688517c1e00921db9219401abe058e879324b87"
+    },
+    "build-dashboard": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/build-dashboard/SKILL.md",
+      "computedHash": "978eb2a7d02cfb91967e94f78567464a68aa222c4e95583d1c7a970d89028c00"
+    },
+    "cohort-analysis": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-data-analytics/skills/cohort-analysis/SKILL.md",
+      "computedHash": "8c6adb54ad7c849c581aae723e0cbf37f4f6dfcaa4860ee12bf72a82f9d5c6fa"
+    },
+    "create-prd": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-execution/skills/create-prd/SKILL.md",
+      "computedHash": "d2601bab05668d84ee1c03865ffcd8f5b95ff0dd8e369161d89e73dd2f567718"
+    },
+    "create-viz": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/create-viz/SKILL.md",
+      "computedHash": "fba08bfbed7bad31c794169dcde5de9fbc5fdf2307ac00d81832092613a4b079"
+    },
+    "data-visualization": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/data-visualization/SKILL.md",
+      "computedHash": "64055493de5ff4afed716cc871018cf6e020338b76d3e7ed5c2985707cb43cec"
+    },
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/docx/SKILL.md",
+      "computedHash": "59c70107f8eae818bdfca7da685a6e4111aa519638b667775b794cb74987ec47"
+    },
+    "explore-data": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/explore-data/SKILL.md",
+      "computedHash": "eeb0f7d4b8a834f773253a3038ca41b38b5ce2c1706dd0a4f3f7b4a38ce819e3"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
+    },
+    "metrics-dashboard": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-product-discovery/skills/metrics-dashboard/SKILL.md",
+      "computedHash": "23943ae9700288342b146c60664107bd5533918348ea3888b7ae96b5e4e1fe7e"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pdf/SKILL.md",
+      "computedHash": "cfbc539377088ca7e44a813b30c306327385bbd973cd7a721e1743f60837dd62"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pptx/SKILL.md",
+      "computedHash": "82eaf5daede5a1779aa17ccf06597cb209a0c2bd41d3a2f18bd45e0301a387fb"
+    },
+    "prioritize-features": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-product-discovery/skills/prioritize-features/SKILL.md",
+      "computedHash": "0cd2f0bf0a1440b12aec601470c30d86dafd1bb0f8a507d7caced94f4bc8a2f8"
+    },
+    "product-strategy": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-product-strategy/skills/product-strategy/SKILL.md",
+      "computedHash": "3c3caf28c064bdd863027fb7737133e6efd545682c82ba21beaf85ac9b21da81"
+    },
+    "product-strategy-session": {
+      "source": "deanpeters/Product-Manager-Skills",
+      "sourceType": "github",
+      "skillPath": "skills/product-strategy-session/SKILL.md",
+      "computedHash": "647969e52a9098b62da19e767e87ea03454c0387bbead9c4ac299d27293bfe72"
+    },
+    "product-vision": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-product-strategy/skills/product-vision/SKILL.md",
+      "computedHash": "6db8717df816928ce4f77e54fc42467f35892967aae84ab0eec8ca5f9edd2c88"
+    },
+    "sql-queries": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-data-analytics/skills/sql-queries/SKILL.md",
+      "computedHash": "8cd45f46990b642b0ccaa5f6dedbeea051d44f1ea2cc5d67114534e77c29b03a"
+    },
+    "statistical-analysis": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/statistical-analysis/SKILL.md",
+      "computedHash": "6dba9b6a31e7ffc7205120700151a3522df91c19a6dba3d13bb9b4835e768feb"
+    },
+    "strategy-red-team": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-execution/skills/strategy-red-team/SKILL.md",
+      "computedHash": "1e3dca0eb964bf63fd72b15efc0f7a574855412f8901b07288ea96a7386e36fd"
+    },
+    "summarize-meeting": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-execution/skills/summarize-meeting/SKILL.md",
+      "computedHash": "505e6223ea9bcb274bde412e6b4d1d0e4ff8597e688d43ab5f3789c19ac05860"
+    },
+    "swot-analysis": {
+      "source": "phuryn/pm-skills",
+      "sourceType": "github",
+      "skillPath": "pm-product-strategy/skills/swot-analysis/SKILL.md",
+      "computedHash": "e54e0a983dfb825ff3f9008efae0611c895f93d7a13140a53c5331678f2d4ec5"
+    },
+    "validate-data": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/validate-data/SKILL.md",
+      "computedHash": "352a628a430896ad0b2cbe5f4f28409b0a9db406f947dc545d8610d5ed9ed217"
+    },
+    "write-spec": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "product-management/skills/write-spec/SKILL.md",
+      "computedHash": "be9823943cc5f15fba80d32308dd74406371986c1327842c5ce4fe276705fb6a"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/xlsx/SKILL.md",
+      "computedHash": "f5945e6e76dc7c178375e5cdf3140959b30cbcd4570ec3dc62296812259fc38d"
+    }
+  }
+}
